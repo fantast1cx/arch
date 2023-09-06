@@ -490,6 +490,7 @@ ul {
 
     .header {
         height: 100vh;
+        background: none;
     }
 
     .header-title {
